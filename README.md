@@ -12,8 +12,11 @@ The detected vehicles are highlighted with bounding boxes, and the predicted col
 - OpenCV
 
 input :
-هدحع![Uploading input.png…]()ف
-![Uploading input.png…]()
+
+<img width="1536" height="1024" alt="input" src="https://github.com/user-attachments/assets/fd322921-f354-40f8-ae99-9fc201f72023" />
+
 
 output :
+
+
 ![output](https://github.com/user-attachments/assets/563c1890-0b6a-44ab-9378-630cc0aeb305)
